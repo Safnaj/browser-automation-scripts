@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer";
 
-const POST_URL = "YOUR_FB_POST_URL_HERE"; // Replace with your Facebook post URL
+const POST_URL = "YOUR_FACEBOOK_POST_URL_HERE"; // Replace with your Facebook post URL
 
 const delay = (time) => new Promise((res) => setTimeout(res, time));
 
